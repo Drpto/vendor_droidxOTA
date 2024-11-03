@@ -6,6 +6,11 @@ Device maintainer: Ashwani212×Darklord
 ========================================
 
 ====================
+03rd November, 2024
+====================
+* increased system stability and minor improvements.
+
+====================
 25th September, 2024
 ====================
 * Fixed idle drain issue.
