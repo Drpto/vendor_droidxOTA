@@ -13,7 +13,7 @@ def generate_banner(device_vendor: str, device_name: str, device_codename: str):
     font_codename = ImageFont.truetype(f"{FONT_PATH}/CONFIG-MEDIUM.OTF", size=40)
     
     draw.text((85, 590), device_vendor, font=font_vendor, fill=(255, 69, 0))
-    draw.text((80, 680), device_name, font=font_device, fill=(238, 238, 238))
+    draw.text((80, 680), device_name, font=font_device, fill=(192, 171, 157))
     draw.text((80, 1320), device_codename.upper(), font=font_codename, fill=(51, 51, 51))
     
     
